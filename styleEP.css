@@ -1,0 +1,198 @@
+body {
+  background: rgb(59, 59, 58);
+
+}
+
+.jumbotron {
+  background-image: url(images/computer.jpg);
+  height: 300px;
+  background-image: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fa-bitcoin {
+  size: 500px;;
+}
+
+.fab {
+  color: rgb(207, 188, 12);
+}
+
+.searchBtn {
+  background: white;
+  outline: black;
+  color: black;
+  border: black 1px solid;
+}
+
+.searchBtn:hover {
+background: grey;
+}
+
+.Emailbtn {
+  background: white;
+  color: black;
+}
+
+.logIn {
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+  color: black;
+
+}
+
+
+.form-text {
+  font-size: 12px;
+
+}
+
+.dropdown-item:hover {
+  /* color: red; */
+  text-decoration: underline;
+
+  }
+   
+
+.whole {
+  background: lightgray;
+  opacity: .7;
+}
+
+.form-control {
+  background: white;
+}
+
+#emailHelp {
+  color: black;
+}
+
+.fab {
+  color: rgb(219, 198, 8);
+}
+
+.navbar {
+  background-color: rgb(185, 185, 185);
+  border-bottom: solid 3px gold;
+ }
+
+footer {
+  border-top: 3px solid gold;
+  clear: both;
+  font-size: 12px;
+  text-align: center;
+  padding-bottom: 40px;
+  height: 20px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;  
+  background-color: rgb(170, 167, 167);
+  color: black;
+  /* background-color: black;
+  color: white; */
+
+}
+
+.page-footer {
+  clear: both;
+  font-size: 12px;
+  text-align: center;
+  padding-bottom: 40px;
+  height: 20px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;  
+  background-color: rgb(170, 167, 167);
+  color: black;
+  /* background-color: black;
+  color: white; */
+
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.text {
+  color: white;
+  font-family: 'Anton', sans-serif;
+  font-size: 60px;
+
+}
+
+
+.welcome {
+color: white;
+font-size: 50px;
+/* font-family: 'Anton', sans-serif; */
+text-align: center;
+font-family: 'Bowlby One SC', cursive;
+
+
+}
+
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
+
+.circleButton {
+  font-size: 15px;
+  text-align: center;
+  color: black;
+  font-weight: 900;
+}
+
+.carousel{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  /* border-radius: 40%; */
+  height: 450px;
+  background-image: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+.d-block{
+  /* border: solid gold 4px; */
+  /* border-radius: 40%; */
+  height: 450px;
+
+  background-image: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+
+}
+
+.container {
+  width: 100%;
+  position: relative;
+}
+
+h1 {
+  margin-top: 0%;
+}
+
+#car3 {
+  margin-top: 0%;
+  font-family: 'Bowlby One SC', cursive;
+
+}
+
+#car2 {
+  font-family: 'Bowlby One SC', cursive;
+}

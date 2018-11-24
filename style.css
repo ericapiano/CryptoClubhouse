@@ -1,0 +1,313 @@
+/*header and footer for all pages*/
+body {
+  background: rgb(59, 59, 58);
+  position: relative;
+  min-height: 100%;
+ }
+
+ .table {
+   background-color: white;
+ }
+ 
+ .jumbotron {
+  background-image: url(../images/computer.jpg);
+  height: 300px;
+  background-image:;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+ 
+ /* .searchBar {
+  margin-left: 90%;
+ } */
+ 
+ .fa-bitcoin {
+  size: 500px;;
+ }
+ 
+  .navbar {
+  background-color: rgb(185, 185, 185);
+  border-bottom: solid 3px gold;
+ }
+ 
+ 
+
+ .nav-item {
+  color: white;
+ } 
+
+ .nav-link {
+     color: gold;
+     font-size: 1.5em;
+ }
+ 
+ .fab {
+  color: rgb(207, 188, 12);
+ }
+ 
+ .enterword {
+   margin-right: 20px;
+ }
+ 
+ .Emailbtn {
+  background: white;
+  color: black;
+  
+ }
+
+ .dropdown-item:hover {
+/* color: red; */
+text-decoration: underline;
+
+}
+ 
+ .logIn {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  color: black;
+  margin-top: 10%;
+ 
+ }
+ 
+ .signincontainer {
+ 
+  padding: 50px;
+ 
+ 
+ }
+ 
+ .form-text {
+  font-size: 12px;
+ 
+ }
+ 
+ .whole {
+  background: lightgray;
+  opacity: .7;
+ }
+ 
+ .form-control {
+  background: white;
+ }
+ 
+ #emailHelp {
+  color: black;
+ }
+
+
+.newstron{
+  background-color: grey;
+}
+
+.fa-newspaper-o{
+  color: White;
+}
+
+.tarticles{
+  color: white;
+}
+
+
+.footerd{
+  margin-top: 11%;
+}
+
+.donateb{
+  margin-top: 15%;
+  margin-left: 5%;
+}
+.footerp{
+  margin-top: 10%;
+  margin-left: 5%; 
+}
+.footer-head{
+  margin-top: 2%;
+  margin-left: 20%;
+}
+
+.footer-p{
+  margin-left: 20%;
+}
+
+.formfooter{
+  margin-left: 20%;
+}
+
+.follow{
+  margin-top: 6%;
+}
+
+.footer-hr{
+  margin-left:20%;
+}
+
+/* index page*/
+.carousel{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  border-radius: 40%;
+  height: 600px;
+}
+.d-block{
+  border: solid gold 4px;
+  border-radius: 40%;
+  height: 600px;
+}
+
+#car1{
+  /* margin-bottom: 230px; */
+  font-size: 5rem;
+  color: gold;
+  margin-top: 0%;
+}
+
+#car2{
+  /* margin-bottom: 150px; */
+  font-size: 4rem;
+  font-family: 'Bowlby One SC', cursive;
+
+}
+
+#car3{
+  /* margin-bottom: 150px; */
+  font-size: 4rem;
+  color: white;
+  font-family: 'Bowlby One SC', cursive;
+
+}
+
+/*about page*/
+.card {
+  margin: 5px;
+}
+
+.profpic{
+  height: 550px;
+}
+
+#articleshead{
+  text-align: center;
+  font-size: 3rem;
+  color: rgb(5, 5, 5);
+}
+
+/* market page*/
+td{
+  height: 70px;
+}
+/*pagination*/
+.pager {
+  margin-bottom: 10px;
+  margin-top: 10px;
+ }
+ .page-numbers {
+  border: 1px solid #CCCCCC;
+  color: #808185;
+  display: block;
+  float: left;
+  font-family: Trebuchet MS, Helvetica, sans-serif;
+  font-size: 130%;
+  margin-right: 3px;
+  padding: 4px 4px 3px;
+  text-decoration: none;
+ }
+ .page-numbers.desc {
+  border: medium none;
+ }
+ .page-numbers:hover {
+  text-decoration: none;
+ }
+ .pager a {
+  color: #808185;
+  cursor: pointer;
+  text-decoration: none;
+  outline: none;
+ }
+ .pager a:hover {
+  text-decoration: underline;
+ }
+ .pager a:visited {
+  color: #808185;
+  outline: none;
+ }
+ .page-numbers.next,
+ .page-numbers.prev {
+  border: 1px solid #CCCCCC;
+ }
+ .page-numbers.current {
+  background-color: #808185;
+  border: 1px solid #808185;
+  color: #FFFFFF;
+  font-weight: bold;
+ }
+ .page-numbers.dots {
+  border: 1px solid #FFFFFF;
+ }
+ 
+ .pagination > li > a {
+   position: relative;
+   display: block;
+   padding: .5rem .75rem;
+   margin-left: -1px;
+   line-height: 1.25;
+   /* color: #007bff; */
+   background-color: white;
+   border: 1px solid #dee2e6;
+ }
+ /* pagination end-CSS*/
+
+ .currencybtn{
+      margin-top: 50px;
+ }
+
+ #currentDate{
+     margin-top: 10%;
+     font-family: 'Anton', sans-serif;
+     color: white;
+     font-size: 60px;
+ }
+
+ #Pagination {
+     margin-top:50px;
+     margin-left: 600px;
+ }
+
+ footer {
+  border-top: 3px solid gold;
+  clear: both;
+  font-size: 12px;
+  text-align: center;
+  padding-bottom: 40px;
+  height: 20px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;  
+  background-color: rgb(170, 167, 167);
+  color: black;
+  /* background-color: black;
+  color: white; */
+
+}
+
+
+.btn-circle.btn-xl {
+  width: 80px;
+  height: 80px;
+  padding: 10px 16px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
+
+
+.css-1kglba1 {
+  display: block;
+  color: rgb(85, 85, 85);
+  margin-top: 24px;
+  margin-bottom: 24px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+}
