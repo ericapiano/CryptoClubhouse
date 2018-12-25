@@ -12,5 +12,6 @@ https://ericapiano.github.io/CryptoClubhouse/
 * JQuery
 * 2 APIs
 * Pagination
+* CSS Animation
 
 
