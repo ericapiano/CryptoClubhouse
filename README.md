@@ -1,5 +1,5 @@
 # The Crypto Clubhouse
-A cryptocoin themed website that allows users to search for related articles from the cryptocurrent news website, and view market charges for the top 100 coins in seven different currencies.
+A cryptocoin themed website that allows users to search for related articles from the cryptocurrency news website, and view market charges for the top 100 coins in seven different currencies.
 
 
 ## Demo Link
